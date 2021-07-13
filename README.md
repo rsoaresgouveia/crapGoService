@@ -12,7 +12,7 @@ a really really really crap Go service with no sense at all. Just trying my best
 7. run in the project root: go run .
 8. Open your request manager thing-magingy and start making requests..........
 9. i don't know, have some fun
-10. Don't ask me why the hell the service is called player-leaderboard. Just go with it (trust me, dont ever remember anymore)
+10. Don't ask me why the hell the service is called player-leaderboard. Just go with it (trust me, dont even remember anymore)
 
 
 
