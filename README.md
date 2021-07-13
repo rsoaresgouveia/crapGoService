@@ -1,7 +1,7 @@
 # crapGoService
 a really really really crap Go service with no sense at all. Just trying my best to learning and keeping fun for myself
 
-##How to Run
+## How to Run
 
 1. First you need to know that i don't know what i'm doing.
 2. You need to have go instaled in your machine: https://golang.org/doc/install
@@ -12,7 +12,7 @@ a really really really crap Go service with no sense at all. Just trying my best
 7. run in the project root: go run .
 8. Open your request manager thing-magingy and start making requests..........
 9. i don't know, have some fun
-10. Don't ask me why the hell the service is called player-leaderboard. Just go with it (trust me, dont ever remeber anymore)
+10. Don't ask me why the hell the service is called player-leaderboard. Just go with it (trust me, dont even remember anymore)
 
 
 
