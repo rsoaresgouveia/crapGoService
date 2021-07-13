@@ -20,7 +20,7 @@ func ConnectoDatabaseExample() *sql.DB{
 	return db
 }
 
-func InsertIntoDataabse(table string, truck types.Truck){
+func InsertIntoDatabse(table string, truck types.Truck){
 	db := ConnectoDatabaseExample()
 	//Formulating insert string to database
 	is := "INSERT INTO " + table + " VALUES ('" + truck.Melancia + "','" + truck.Gatinha + "','" + truck.Picole + "')"

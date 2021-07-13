@@ -74,7 +74,7 @@ func InsertIntodatabaseCrapDataExample(w http.ResponseWriter, r *http.Request){
 		panic(err)
 	}
 
-	database.InsertIntoDataabse("hello", truck)
+	database.InsertIntoDatabse("hello", truck)
 
 	truckJson, err := json.Marshal(truck)
 	if err != nil{
